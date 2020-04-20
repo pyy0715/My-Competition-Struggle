@@ -16,6 +16,6 @@
 * [2019 2nd ML month with KaKR](https://github.com/pyy0715/My-Competition-Struggle/tree/master/Kaggle/2019%202nd%20ML%20month%20with%20KaKR)
 * [Bag of Words Meets Bags of Popcorn](https://github.com/pyy0715/My-Competition-Struggle/tree/master/Kaggle/Bag%20of%20Words)
 * [Bengali AI Handwritten Grapheme Classification](https://github.com/pyy0715/My-Competition-Struggle/tree/master/Kaggle/Bengali.AI%20Handwritten%20Grapheme%20Classification)
-* [Digit Recognizer]('https://github.com/pyy0715/My-Competition-Struggle/tree/master/Kaggle/Digit%20Recognizer')
+* [Digit Recognizer](https://github.com/pyy0715/My-Competition-Struggle/tree/master/Kaggle/Digit%20Recognizer)
 * [Home Credit Default Risk](https://github.com/pyy0715/My-Competition-Struggle/tree/master/Kaggle/Home%20Credit%20Default%20Risk)
 * [New York City Taxi Fare Prediction](https://github.com/pyy0715/My-Competition-Struggle/tree/master/Kaggle/New%20York%20City%20Taxi%20Fare%20Prediction)
