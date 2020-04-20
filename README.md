@@ -3,8 +3,8 @@
 참여했던 대회의 정보와 코드들을 기록하는 곳입니다.
 
 ## File Tree
-**`2019_Bigcontest`**
-* [2019_Bigcontest Analysis분야 챔피언스 리그]('https://github.com/pyy0715/My-Competition-Struggle/tree/master/2019_Bigcontest')
+**`2019 Bigcontest`**
+* [2019 Bigcontest Analysis분야 챔피언스 리그]('https://github.com/pyy0715/My-Competition-Struggle/tree/master/2019_Bigcontest')
 
 **`Dacon`**
 * [수원대학교 분석 캠프](https://github.com/pyy0715/My-Competition-Struggle/tree/master/Dacon/Suwon_Camp)
