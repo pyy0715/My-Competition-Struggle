@@ -1,0 +1,3 @@
+[submodule "Kakao_Arena/categories-prediction"]
+	path = Kakao_Arena/categories-prediction
+	url = https://github.com/lime-robot/categories-prediction
