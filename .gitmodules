@@ -1,0 +1,3 @@
+[submodule "Kakao_Arena/brunch-recommendation/baseline"]
+	path = Kakao_Arena/brunch-recommendation/baseline
+	url = https://github.com/kakao-arena/brunch-article-recommendation.git
