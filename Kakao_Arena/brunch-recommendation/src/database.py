@@ -7,6 +7,7 @@ from util import iterate_data_files
 
 def read_files_to_dataframe(dest_path):
    print('read files of all users')
+   os.makedirs(dest_path, exist_ok=True)
    data = []
    files = sorted([path for path, _ in iterate_data_files('2018100100', '2019022200')])
    for path in tqdm(files, mininterval=1):

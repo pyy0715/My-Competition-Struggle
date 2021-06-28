@@ -3,9 +3,14 @@
 
 *.txt
 *.csv
+*.tsv
 *.pkl
 *.pth 
-
+*.zip
+*.yaml
+*.ckpt
+*.json
+*.bin
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -25,6 +30,9 @@ __pycache__/
 # IPython
 profile_default/
 ipython_config.py
+
+# Tensorboard
+*events.out.tfevents*
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
@@ -49,3 +57,5 @@ ipython_config.py
 .history
 
 # End of https://www.gitignore.io/api/visualstudiocode
+*.wav
+*.npy
